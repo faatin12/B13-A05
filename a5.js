@@ -234,7 +234,7 @@ closeData.addEventListener('click', function () {
 
 })
 
-
+//search button 
 
 searchBtn.addEventListener('click', function () {
     let searchInputValue = searchInput.value.trim().toLowerCase()
